@@ -158,7 +158,8 @@ h1{
     }
 
     .wrapper {
-        height: 77vh;
+        /* height: 77vh; */
+        height: 75%;
         padding: 1rem;
     }
 
