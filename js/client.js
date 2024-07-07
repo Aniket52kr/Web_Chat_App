@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8000');
+const socket = io('http://192.168.103.244:8000');
 
 socket.on('connect', () => {
     console.log('Connected to server');
